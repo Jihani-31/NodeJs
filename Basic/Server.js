@@ -1,5 +1,5 @@
- import http from 'http';
-// var http= require('http')
+
+ var http= require('http');
 http.createServer(function(req,res){
     res.end('hellor ss');
     
